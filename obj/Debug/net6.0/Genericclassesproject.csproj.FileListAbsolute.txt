@@ -1,0 +1,15 @@
+C:\Users\Serhii\Desktop\bitroot\15\Genericclassesproject\bin\Debug\net6.0\Genericclassesproject.exe
+C:\Users\Serhii\Desktop\bitroot\15\Genericclassesproject\bin\Debug\net6.0\Genericclassesproject.deps.json
+C:\Users\Serhii\Desktop\bitroot\15\Genericclassesproject\bin\Debug\net6.0\Genericclassesproject.runtimeconfig.json
+C:\Users\Serhii\Desktop\bitroot\15\Genericclassesproject\bin\Debug\net6.0\Genericclassesproject.dll
+C:\Users\Serhii\Desktop\bitroot\15\Genericclassesproject\bin\Debug\net6.0\Genericclassesproject.pdb
+C:\Users\Serhii\Desktop\bitroot\15\Genericclassesproject\obj\Debug\net6.0\Genericclassesproject.csproj.AssemblyReference.cache
+C:\Users\Serhii\Desktop\bitroot\15\Genericclassesproject\obj\Debug\net6.0\Genericclassesproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhii\Desktop\bitroot\15\Genericclassesproject\obj\Debug\net6.0\Genericclassesproject.AssemblyInfoInputs.cache
+C:\Users\Serhii\Desktop\bitroot\15\Genericclassesproject\obj\Debug\net6.0\Genericclassesproject.AssemblyInfo.cs
+C:\Users\Serhii\Desktop\bitroot\15\Genericclassesproject\obj\Debug\net6.0\Genericclassesproject.csproj.CoreCompileInputs.cache
+C:\Users\Serhii\Desktop\bitroot\15\Genericclassesproject\obj\Debug\net6.0\Genericclassesproject.dll
+C:\Users\Serhii\Desktop\bitroot\15\Genericclassesproject\obj\Debug\net6.0\refint\Genericclassesproject.dll
+C:\Users\Serhii\Desktop\bitroot\15\Genericclassesproject\obj\Debug\net6.0\Genericclassesproject.pdb
+C:\Users\Serhii\Desktop\bitroot\15\Genericclassesproject\obj\Debug\net6.0\Genericclassesproject.genruntimeconfig.cache
+C:\Users\Serhii\Desktop\bitroot\15\Genericclassesproject\obj\Debug\net6.0\ref\Genericclassesproject.dll
